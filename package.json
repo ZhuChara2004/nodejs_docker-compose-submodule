@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_docker-compose",
+  "version": "1.0.0",
+  "description": "Docker-compose NodeJS researc application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Zhuk",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "log4js": "^1.1.1",
+    "node-agent-sdk": "^0.2.12",
+    "nodemailer": "^4.0.1",
+    "pg": "^6.4.0",
+    "request": "^2.81.0",
+    "sequelize": "^4.2.1",
+    "sequelize-cli": "^2.7.0",
+    "striptags": "^3.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+#Editor settings
+.vscode/
+.idea
+
+# GIT
+.git
+.gitignore
+
+# Node related stuff
+node_modules
